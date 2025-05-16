@@ -7,3 +7,6 @@
 - title: GitHub
   url: https://github.com/liminteger
   icon: fab fa-github
+- title: Naver Blog
+  url: https://blog.naver.com/limintheair
+  icon: /assets/icons/naver-blog.svg
